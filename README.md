@@ -59,6 +59,32 @@ Features include:
 - Joblib
 
 ---
+# Fraud Detection API
+
+This API allows external systems and applications to interact with the Fraud Detection Machine Learning model.
+
+The API receives transaction data, processes it using the trained model, and returns whether the transaction is:
+
+- Fraud
+- Normal
+
+---
+
+# Technologies Used
+
+- Flask
+- Python
+- Scikit-learn
+- Joblib
+- Pandas
+
+---
+
+# 📂 API File
+
+```bash
+app.py
+
 
 # 📈 Dashboard Visualizations
 
