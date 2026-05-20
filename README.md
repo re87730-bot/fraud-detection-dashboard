@@ -114,6 +114,7 @@ Fraud_Detection_Project/
 │
 └── images/
 
+---
 
 ## Run the Project
 1/ Clone Repository
