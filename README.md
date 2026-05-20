@@ -113,3 +113,19 @@ Fraud_Detection_Project/
 │   └── creditcard.csv
 │
 └── images/
+
+
+## Run the Project
+1/ Clone Repository
+git clone YOUR_GITHUB_LINK
+
+2/ Install Requirements
+pip install -r requirements.txt
+
+3/ Run Streamlit App
+streamlit run app_streamlit.py
+
+## Deployment
+
+The project is deployed using:
+# Streamlit Community Cloud
